@@ -440,15 +440,6 @@ if __name__ == '__main__':
 **Issue:** "ONNX model not found" error.
 - **Solution:** Ensure the ONNX model file exists at `backend/models/best_model.onnx`. The model should be pre-exported and included with the project.
 
-## API Versioning:
-
-**Current Version:** v1 (implicit).
-
-**Future Considerations:**
-- Implement explicit API versioning (e.g., `/api/v1/predict`).
-- Maintain backward compatibility when adding new features.
-- Document breaking changes clearly.
-
 ## Support:
 
 For API-related issues:
