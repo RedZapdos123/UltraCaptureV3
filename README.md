@@ -2,8 +2,6 @@
 
 A modern, retro-styled web application for recognizing CAPTCHA images using a hybrid CRNN (Convolutional Recurrent Neural Network) architecture with attention mechanisms. The application features CPU-based ONNX inference for fast, cross-platform deployment without GPU requirements.
 
-© 2025 UltraCaptureV3 | Created by Mridankan Mandal | Project AA.
-
 ![Home Section](visuals/HomeSection.png)
 
 The UltraCaptureV3 application features a retro-styled interface with a vintage aesthetic, displaying the project title, accuracy metrics, and creator information on the home page.
@@ -115,7 +113,7 @@ For detailed setup and usage instructions, see:
 
 ---
 
-## 📁 Project Structure:
+## Project Structure:
 
 ```
 ProjectAAWebsite/
@@ -149,7 +147,7 @@ ProjectAAWebsite/
 
 ---
 
-## 🔗 Resources:
+## Resources:
 
 - **GitHub Repository**: [CRNN_Captcha_Recognition](https://github.com/WhiteMetagross/CRNN_Captcha_Recognition).
 - **Dataset**: [Huge CAPTCHA Dataset on Kaggle](https://www.kaggle.com/datasets/redzapdos123/huge-captcha-dataset).
@@ -157,7 +155,7 @@ ProjectAAWebsite/
 
 ---
 
-## 💡 Technology Stack:
+## Technology Stack:
 
 **Frontend:**
 - React 19 with TypeScript.
@@ -173,7 +171,7 @@ ProjectAAWebsite/
 
 ---
 
-## 📝 License and Attribution:
+## License and Attribution:
 
 This project is created by **Mridankan Mandal** as part of **Project AA**.
 
@@ -183,7 +181,7 @@ The model was trained on the **Huge CAPTCHA Dataset** available on Kaggle.
 
 ---
 
-## 🆘 Support and Troubleshooting:
+## Support and Troubleshooting:
 
 For setup issues, see the [Installation and Setup Guide](InstallationAndSetup.md).
 
