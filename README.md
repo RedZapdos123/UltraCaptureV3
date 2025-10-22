@@ -115,7 +115,7 @@ For detailed setup and usage instructions, see:
 
 ---
 
-## 📁 Project Structure:
+## Project Structure:
 
 ```
 ProjectAAWebsite/
@@ -149,7 +149,7 @@ ProjectAAWebsite/
 
 ---
 
-## 🔗 Resources:
+## Resources:
 
 - **GitHub Repository**: [CRNN_Captcha_Recognition](https://github.com/WhiteMetagross/CRNN_Captcha_Recognition).
 - **Dataset**: [Huge CAPTCHA Dataset on Kaggle](https://www.kaggle.com/datasets/redzapdos123/huge-captcha-dataset).
@@ -157,7 +157,7 @@ ProjectAAWebsite/
 
 ---
 
-## 💡 Technology Stack:
+## Technology Stack:
 
 **Frontend:**
 - React 19 with TypeScript.
@@ -173,7 +173,7 @@ ProjectAAWebsite/
 
 ---
 
-## 📝 License and Attribution:
+## License and Attribution:
 
 This project is created by **Mridankan Mandal** as part of **Project AA**.
 
@@ -183,7 +183,7 @@ The model was trained on the **Huge CAPTCHA Dataset** available on Kaggle.
 
 ---
 
-## 🆘 Support and Troubleshooting:
+## Support and Troubleshooting:
 
 For setup issues, see the [Installation and Setup Guide](InstallationAndSetup.md).
 
