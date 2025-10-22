@@ -293,14 +293,4 @@ Project README with:
 
 3. **Building for Production:**
    - Frontend: `npm run build` creates optimized bundle in `dist/`.
-   - Backend: Deploy Flask app with production WSGI server (e.g., Gunicorn).
-
-## Future Enhancements:
-
-Potential areas for expansion:
-- Batch image processing.
-- Model performance analytics dashboard.
-- User authentication and history.
-- Additional export formats (TensorFlow.js, TFLite).
-- Real-time webcam capture for CAPTCHA solving.
-
+   - Backend: Deploy Flask app with production WSGI server (like Gunicorn).
