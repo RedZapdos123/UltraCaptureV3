@@ -2,8 +2,6 @@
 
 A modern, retro-styled web application for recognizing CAPTCHA images using a hybrid CRNN (Convolutional Recurrent Neural Network) architecture with attention mechanisms. The application features CPU-based ONNX inference for fast, cross-platform deployment without GPU requirements.
 
-© 2025 UltraCaptureV3 | Created by Mridankan Mandal | Project AA.
-
 ![Home Section](visuals/HomeSection.png)
 
 The UltraCaptureV3 application features a retro-styled interface with a vintage aesthetic, displaying the project title, accuracy metrics, and creator information on the home page.
